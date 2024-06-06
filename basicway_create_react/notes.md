@@ -35,7 +35,7 @@
    - Renders React components to the web.
    - Provides methods to render components to specific DOM nodes.
 
-## How React Works
+
 
 ## How React Works
 
@@ -51,7 +51,6 @@
 
 ## React-Scripts
 - `react-scripts` comes from Create React App (CRA).
-- Handles setup and build process of a React app (using tools like webpack and Babel).
 - Automatically adds `index.js` to `index.html` and allows adding more scripts.
 
 
@@ -59,4 +58,4 @@
 - **Function and Component Names**
   - Should start with an uppercase letter.
   - Helps React distinguish between HTML elements and custom components.
-  - Use descriptive names for better readability.
+
