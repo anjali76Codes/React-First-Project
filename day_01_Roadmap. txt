@@ -1,0 +1,46 @@
+Why to learn React 
+--> hype , job , trend  , build UI
+--> makes easy to   manage & build complex frontend
+
+Why react was created
+--> state - js  and UI - DOM --> to sync both the file react will created
+
+--> to maintain the consistency
+--> first react library are used by the khan academy and Unsplash
+
+
+* React is a Library but compare with the framework like angular.js , etc.
+* framework - very professional following strict rules not allow any freedom
+* library - having much more freedom not having more strictness
+
+
+
+Topics to learn 
+-> core of react (state or UI manipulation  , JSX)
+-> component reusability
+-> Reusing of component
+-> How to propagate change (hooks)
+hooks - useEffect , useState
+
+
+
+Additional Addon to React
+-> Router (React don't have router)
+
+-> state management (React don't have state management)
+    - Redux , Redux toolkit , zustand , context API 
+
+-> class Based component
+    - legacy code
+
+-> BAAS ( Backend as App service) Apps 
+    - social  media clone , e -commerce  App ....
+
+
+
+After React 
+-> React is not a complete solution in most case 
+   - no SEO  ,  browser render  of js  , no routing 
+
+-> framework
+   - Next Js  , Gatsby  , Remix   
