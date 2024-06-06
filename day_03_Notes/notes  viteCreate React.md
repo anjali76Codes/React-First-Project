@@ -1,3 +1,7 @@
+"All structures are the same as in a basic Create React project, but the difference is:"
+
+
+
 ## Vite-Specific Notes
 
 - **No React Scripts in Vite**
