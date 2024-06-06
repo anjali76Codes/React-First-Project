@@ -51,7 +51,6 @@
 
 ## React-Scripts
 - `react-scripts` comes from Create React App (CRA).
-- Handles setup and build process of a React app (using tools like webpack and Babel).
 - Automatically adds `index.js` to `index.html` and allows adding more scripts.
 
 
