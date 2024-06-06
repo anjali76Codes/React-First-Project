@@ -1,0 +1,37 @@
+1. git clone link  
+2.create  // a.npx create-react-app my-app  //b. npm create vite@latest 
+3.options 
+
+4.cd firstword Then tab then it shows insided folder after this Enter
+5.npm install
+6.Adding of packages 
+7.npm run dev 
+
+Ex.Now run:
+
+  cd login(Project name)
+  npm install
+  npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

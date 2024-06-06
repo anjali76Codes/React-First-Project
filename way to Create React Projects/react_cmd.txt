@@ -1,0 +1,15 @@
+1.fix cd
+
+2.npx create-folderName
+
+3.AppName
+
+4.Select valid options
+
+5.cd AppName
+
+6.code . (to open your react folder in the vs code )
+
+7.rafc(react arrow function component)-->like boiler code for the react 
+
+8. rfce 
