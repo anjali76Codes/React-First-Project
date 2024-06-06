@@ -58,4 +58,4 @@
 - **Function and Component Names**
   - Should start with an uppercase letter.
   - Helps React distinguish between HTML elements and custom components.
-  - Use descriptive names for better readability.
+
