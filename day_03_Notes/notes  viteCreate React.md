@@ -1,4 +1,4 @@
-"All structures are the same as in a basic Create React project, but the difference is:"
+## All structures are the same as in a basic Create React project, but the difference is:
 
 
 
