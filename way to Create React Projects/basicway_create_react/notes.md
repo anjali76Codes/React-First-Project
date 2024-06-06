@@ -35,7 +35,7 @@
    - Renders React components to the web.
    - Provides methods to render components to specific DOM nodes.
 
-## How React Works
+
 
 ## How React Works
 
