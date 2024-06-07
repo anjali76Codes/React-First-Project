@@ -42,4 +42,4 @@ create-react-app -> it is a utility / software - it is a very bulky utility - gi
 - 2. as we don't have node modules installed -> npm install
 - 3. running -> npm run dev
 - package.json:
-  - dev dependencies - don't go in production just for our development
+  - Dev dependencies - don't go in production just for our development
